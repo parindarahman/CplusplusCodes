@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\parin\documents\coding c++\1.2\main.cpp
+	<iostream>
+
+1606875257 source:c:\users\parin\documents\coding c++\1.2\itemtype.cpp
+	<fstream>
+	<iostream>
+	"ItemType.h"
+
+1606875162 c:\users\parin\documents\coding c++\1.2\itemtype.h
+	<fstream>
+

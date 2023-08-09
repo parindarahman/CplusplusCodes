@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1606296392 source:c:\users\parin\documents\coding c++\zooproject\zoo1.cpp
+	"zoo1.h"
+	<iostream>
+
+1606296278 c:\users\parin\documents\coding c++\zooproject\zoo1.h
+

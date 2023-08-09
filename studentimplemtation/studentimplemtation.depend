@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1608479690 source:c:\users\parin\documents\mid dynamic allocation\studentimplemtation\unsortedtype.cpp
+	"unsorted.h"
+	"studentinfo.h"
+
+1608476121 c:\users\parin\documents\mid dynamic allocation\studentimplemtation\unsorted.h
+
+1608479690 source:c:\users\parin\documents\mid dynamic allocation\studentimplemtation\studentinfo.cpp
+	"studentinfo.h"
+	<iostream>
+	<string>
+
+1608479881 c:\users\parin\documents\mid dynamic allocation\studentimplemtation\studentinfo.h
+	<string>
+
+1608476882 c:\users\parin\documents\mid dynamic allocation\studentimplemtation\studentinfo.cpp
+	"studentinfo.h"
+	<iostream>
+	<string>
+
+1608479690 source:c:\users\parin\documents\mid dynamic allocation\studentimplemtation\main.cpp
+	<iostream>
+	"unsorted.h"
+	"unsortedtype.cpp"
+	"studentinfo.h"
+
+1608479690 c:\users\parin\documents\mid dynamic allocation\studentimplemtation\unsortedtype.cpp
+	"unsorted.h"
+	"studentinfo.h"
+

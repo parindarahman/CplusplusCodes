@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1607332483 source:c:\users\parin\documents\coding c++\unsorted\unsortedtype.cpp
+	"unsortedtype.h"
+
+1607331549 c:\users\parin\documents\coding c++\unsorted\unsortedtype.h
+
+1607334834 source:c:\users\parin\documents\coding c++\unsorted\main.cpp
+	<iostream>
+	"unsortedtype.h"
+	"unsortedtype.cpp"
+
+1607332483 c:\users\parin\documents\coding c++\unsorted\unsortedtype.cpp
+	"unsortedtype.h"
+

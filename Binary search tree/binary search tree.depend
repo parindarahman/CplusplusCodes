@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1610804367 source:c:\users\parin\documents\coding c++\binary search tree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1610804367 c:\users\parin\documents\coding c++\binary search tree\binarysearchtree.h
+	"quetype.h"
+
+1610805470 c:\users\parin\documents\coding c++\binary search tree\quetype.h
+
+1610805268 c:\users\parin\documents\coding c++\binary search tree\quetype.cpp
+	"quetype.h"
+
+1610805268 source:c:\users\parin\documents\coding c++\binary search tree\quetype.cpp
+	"quetype.h"
+

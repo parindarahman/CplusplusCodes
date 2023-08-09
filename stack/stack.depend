@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1608713665 source:c:\users\parin\documents\mid dynamic allocation\stack\stacktype.cpp
+	"stacktype.h"
+
+1608713949 c:\users\parin\documents\mid dynamic allocation\stack\stacktype.h
+
+1608717690 source:c:\users\parin\documents\mid dynamic allocation\stack\main.cpp
+	<iostream>
+	"stacktype.h"
+	"stacktype.cpp"
+
+1608713665 c:\users\parin\documents\mid dynamic allocation\stack\stacktype.cpp
+	"stacktype.h"
+

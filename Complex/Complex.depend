@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1606901749 source:c:\users\parin\documents\coding c++\complex\complex.cpp
+	<iostream>
+	"complex.h"
+
+1606901780 c:\users\parin\documents\coding c++\complex\complex.h
+
+1606901659 source:c:\users\parin\documents\coding c++\complex\main.cpp
+	<iostream>
+	"complex.h"
+

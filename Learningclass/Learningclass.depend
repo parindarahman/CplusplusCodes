@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1605519150 source:c:\users\parin\documents\coding c++\learningclass\calculator.cpp
+	"calculator.h"
+	<iostream>
+
+1605519150 source:c:\users\parin\documents\coding c++\learningclass\main.cpp
+	<iostream>
+	"calculator.h"
+
+1605519079 c:\users\parin\documents\coding c++\learningclass\calculator.h
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1608303358 source:c:\users\parin\documents\mid dynamic allocation\dynamicallocationclass\main.cpp
+	<iostream>
+	"myArray.h"
+
+1608297457 c:\users\parin\documents\mid dynamic allocation\dynamicallocationclass\myarray.h
+

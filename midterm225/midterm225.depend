@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1608641679 source:c:\users\parin\documents\mid dynamic allocation\midterm225\itemtype.cpp
+	<fstream>
+	<iostream>
+	"ItemType.h"
+
+1608641695 c:\users\parin\documents\mid dynamic allocation\midterm225\itemtype.h
+	<fstream>
+

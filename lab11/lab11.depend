@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1608706188 source:c:\users\parin\documents\mid dynamic allocation\lab11\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+
+1608706188 c:\users\parin\documents\mid dynamic allocation\lab11\sortedtype.h
+
+1608706188 source:c:\users\parin\documents\mid dynamic allocation\lab11\timestamp.cpp
+	"timeStamp.h"
+	<iostream>
+
+1608706188 c:\users\parin\documents\mid dynamic allocation\lab11\timestamp.h
+
+1608706442 source:c:\users\parin\documents\mid dynamic allocation\lab11\main.cpp
+	<iostream>
+	"sortedtype.h"
+	"sortedtype.cpp"
+	"timestamp.h"
+
+1608706188 c:\users\parin\documents\mid dynamic allocation\lab11\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+

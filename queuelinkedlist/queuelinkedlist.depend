@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1609922436 source:c:\users\parin\documents\coding c++\queuelinkedlist\main.cpp
+	<iostream>
+	"queuelinkedlistheader.h"
+	"queuelinkedlist.cpp"
+
+1609918879 c:\users\parin\documents\coding c++\queuelinkedlist\queuelinkedlistheader.h
+
+1609924454 c:\users\parin\documents\coding c++\queuelinkedlist\queuelinkedlist.cpp
+	<iostream>
+	"queuelinkedlistheader.h"
+
+1609924454 source:c:\users\parin\documents\coding c++\queuelinkedlist\queuelinkedlist.cpp
+	<iostream>
+	"queuelinkedlistheader.h"
+
